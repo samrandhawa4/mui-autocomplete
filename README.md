@@ -2,6 +2,7 @@
 
 Simple auto suggestion for REST API requests by using Material-UI components, React hooks and Axios.
 
+### Demo https://samrandhawa4.github.io/mui-autocomplete/
 ## Getting Started
 
 npm install --save mui-autocomplete
