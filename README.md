@@ -1,4 +1,4 @@
-<img src='logo.svg' alt='logo' width='200px' align="center" background="skyblue"/>
+<img src='Mui-Autoselect.png' alt='logo' width='200px' align="center"/>
 
 # mui-autocomplete
 
