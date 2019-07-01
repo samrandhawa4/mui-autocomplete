@@ -1,4 +1,4 @@
-<div style="background-color: #00b0ff">
+<div style="color: #00b0ff">
   <p align="center">
     <img width="300px" src="logo.svg">
   </p>
