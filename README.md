@@ -1,4 +1,4 @@
-<p style='color:deepskyblue'>
+<p color="deepskyblue">
     <img src='logo.svg' alt='logo' width='200px' align="left"/>
     <b align="left">Material-Ui Autocomplete</b>
 </p>
