@@ -1,7 +1,8 @@
-<p color="deepskyblue">
+<div style="background:blue">
     <img src='logo.svg' alt='logo' width='200px' align="left"/>
     <b align="left">Material-Ui Autocomplete</b>
-</p>
+    <br style="clear:left" />
+</div>
 # mui-autocomplete
 
 Simple auto suggestion for REST API requests by using Material-UI components, React hooks and Axios.
