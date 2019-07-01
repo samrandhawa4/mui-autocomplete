@@ -1,7 +1,6 @@
-<div style="color: #00b0ff">
-  <p align="center">
-    <img width="300px" src="logo.svg">
-  </p>
+<div style="background-color:lightblue">
+  <h3>This is a heading</h3>
+  <p>This is a paragraph.</p>
 </div>
 # mui-autocomplete
 
