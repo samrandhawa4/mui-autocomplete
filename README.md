@@ -1,5 +1,6 @@
-<p style='color:#00b0ff'>
-    <img src='logo.svg' alt='logo' width='200px' />
+<p style='color:deepskyblue'>
+    <img src='logo.svg' alt='logo' width='200px' align="left"/>
+    <b align="left">Material-Ui Autocomplete</b>
 </p>
 # mui-autocomplete
 
