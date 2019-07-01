@@ -1,4 +1,6 @@
-[Contribution guidelines for this project](docs/LICENSE.md)
+<p style='color:#00b0ff'>
+    <img src='logo.svg' alt='logo' width='200px' />
+</p>
 # mui-autocomplete
 
 Simple auto suggestion for REST API requests by using Material-UI components, React hooks and Axios.
