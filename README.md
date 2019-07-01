@@ -1,5 +1,4 @@
-<img src='logo.svg' alt='logo' width='200px' align="left" />
-<b align="left">Material-Ui Autocomplete</b>
+<img src='logo.svg' alt='logo' width='200px' align="center" background="skyblue"/>
 
 # mui-autocomplete
 
